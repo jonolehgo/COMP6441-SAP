@@ -1,6 +1,6 @@
 # COMP6441: Something Awesome Project 🚩
 
-A project to showcase how SQLi is utlised to obtain secret infromation. This application consists of 3 CTF (Capture The Flag) Challenges:
+A project to showcase how SQLi is utlised to obtain secret infromation. This application consists of 3 CTF (Capture The Flag) challenges:
 
 1. Obtain secret user (within a single table)
 2. Obtain secret location (within another table [requires multilple queries])
