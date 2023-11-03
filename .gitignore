@@ -1,0 +1,5 @@
+credentials.py
+bakup/
+venv/
+.vscode/
+__pycache__/
