@@ -170,8 +170,8 @@ def create_blog_table():
 
 def populate_blog_data():
     """ helper function to populate blog table """
-    title = "The Classic: 🍔 Hamburgers"
-    body = """Hamburgers, an iconic American delight, are a timeless comfort food.\n\nA juicy patty, fresh veggies, and a fluffy bun come together for a mouthwatering experience that never goes out of style.\n\nBite into the simple, yet irresistible, joy of a well-made hamburger today.\n"""
+    title = "Craving a 🍔 Hamburger"
+    body = """Hamburgers, the best way to satisfy your hunger cravings!\n\nConsisting of a juicy beef patty, fresh and crispy veggies, ketchup and mayo, topped of with a toasty sesame seeded bun...\n\nJust one bite of a delicious mouth-watering hamburger will make your problems go away!\n"""
     comments = [
         {
             'name': 'Alice',

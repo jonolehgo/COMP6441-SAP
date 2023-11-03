@@ -184,7 +184,7 @@ def challenge_3():
     # reveal query expander
     with st.expander(label="Reveal Query - Spoiler!"):
         st.text(
-            """"}]'::jsonb WHERE blog_id =1; UPDATE blog Set blog_title = 'The Classic: Hamburgers' where blog_id = 1; --x""")
+            """"}]'::jsonb WHERE blog_id =1; UPDATE blog Set blog_title = 'Craving a Hamburger' where blog_id = 1; --x""")
 
     # reveal flag expander
     with st.expander(label="Reveal Flag - Spoiler!"):
